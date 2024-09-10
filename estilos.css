@@ -1,50 +1,14 @@
-/* Definindo estilos globais para a página */
-body {
-    font-family: Arial, sans-serif; /* Define a fonte padrão para o corpo da página */
-    color: #333; /* Define a cor do texto padrão */
-    background-color: #f4f4f4; /* Define a cor de fundo da página */
-    margin: 0;
-    padding: 0;
-}
+.justify-content: flex-end;
 
-/* Estilos para o cabeçalho */
-header {
-    background-color: #008080; /* Cor de fundo do cabeçalho */
-    color: white; /* Cor do texto do cabeçalho */
-    padding: 20px; /* Espaçamento interno do cabeçalho */
-    text-align: center; /* Alinha o texto ao centro */
-}
 
-/* Estilos para as seções */
-section {
-    margin: 20px; /* Espaçamento externo ao redor das seções */
-    padding: 15px; /* Espaçamento interno dentro das seções */
-    background-color: #ffffff; /* Cor de fundo das seções */
-    border-radius: 5px; /* Bordas arredondadas nas seções */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ao redor das seções */
-}
+.align-items: center;
 
-/* Estilos para imagens */
-img {
-    width: 100%; /* Faz com que as imagens ocupem 100% da largura do elemento pai */
-    height: auto; /* Mantém a proporção das imagens */
-    border-radius: 5px; /* Bordas arredondadas nas imagens */
-}
 
-/* Estilos para o link */
-a {
-    color: #008080; /* Cor do link */
-    text-decoration: none; /* Remove o sublinhado padrão dos links */
-}
+.flex-direction: row-reverse;
 
-a:hover {
-    text-decoration: underline; /* Sublinha o link ao passar o mouse */
-}
 
-/* Estilos para o rodapé */
-footer {
-    background-color: #333; /* Cor de fundo do rodapé */
-    color: white; /* Cor do texto do rodapé */
-    padding: 10px; /* Espaçamento interno do rodapé */
-    text-align: right; /* Alinha o texto à direita */
-}
+.flex-direction: row-reverse;
+justify-content: flex-end;
+
+
+.align-items: flex-end;
