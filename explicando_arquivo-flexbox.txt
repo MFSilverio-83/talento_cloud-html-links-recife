@@ -1,0 +1,25 @@
+Nível 1: justify-content
+Aprendendo a usar justify-content para alinhar os sapos ao longo do eixo principal.
+
+= justify-content: flex-end;: Move os sapos para o final do contêiner (à direita) =
+
+Nível 2: align-items
+Usando align-items para alinhar os sapos ao longo do eixo transversal (vertical).
+
+= align-items: center;: Centraliza os sapos verticalmente no contêiner. =
+
+Nível 3: flex-direction
+Mudando a direção do eixo principal com flex-direction.
+
+= flex-direction: row-reverse;: Inverte a direção dos sapos, movendo-os da direita para a esquerda. =
+
+Nível 4: justify-content com row-reverse
+Combinando justify-content com row-reverse.
+
+= flex-direction: row-reverse;: Inverte a direção do eixo principal. =
+= justify-content: flex-end;: Alinha os sapos ao final do eixo principal invertido (à esquerda). =
+
+Nível 5: align-items com flex-end
+Comdinando align-items para mover os sapos para o fundo.
+
+= align-items: flex-end;: Move os sapos para o final do contêiner no eixo transversal (parte inferior). =
